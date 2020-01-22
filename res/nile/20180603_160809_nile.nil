@@ -1,0 +1,1 @@
+define intent 28419e8b-2ce2-4587-84b2-98be5c49739dintent: from endpoint('iperf client') to endpoint('iperf server') add middlebox('firewall'), middlebox('ids')
